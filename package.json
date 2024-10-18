@@ -12,7 +12,10 @@
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "@vonage/client-sdk": "^1.7.2",
+    "@vonage/video-express": "^1.8.0",
+    "axios": "^1.7.7",
     "opentok": "^2.19.0",
+    "opentok-client": "^2.10.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-network-speed": "^1.1.0",
@@ -46,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@types/axios": "^0.9.36",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14"
