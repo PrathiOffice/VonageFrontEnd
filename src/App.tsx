@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<VideoComponent apiKey={'46699462'} roomName={''}/>} />
+        <Route path="/" element={<VideoComponent apiKey={'46699462'}/>} />
       </Routes>
     </div>
   );
