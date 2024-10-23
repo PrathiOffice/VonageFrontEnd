@@ -32,7 +32,7 @@ export const adjustCamera = async (command: CameraCommand): Promise<void> => {
       PtzCtrl: {
         nChanel: 0,
         szPtzCmd: command,
-        byValue: 50,
+        byValue: 60,
       },
     },
   };
